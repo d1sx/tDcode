@@ -1,3 +1,4 @@
+#!/bin/python3
 import hashlib, sys
 
 op = int(input('''
@@ -11,8 +12,8 @@ op = int(input('''
  |     ╚═╝   ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝  |
  |                                                      |
  |   [1] - Decoder                       [2] - Encoder  |
- |                 by: d1sx (d1sx#0470)                 |
- |______________________________________________________|
+ |                    author: d1sx                      |
+ |______________________________________________________|  discord: d1sx#0470
 
 selecione (1/2): '''))
 print('[!] - Carregando wordlist...')
@@ -73,3 +74,4 @@ elif op == 2:
 
 
 # 02/10/2021 00:21
+# by: d1sx
