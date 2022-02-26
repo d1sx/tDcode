@@ -1,4 +1,4 @@
-# brute_decode_hashes
+# decoding hash in brute force
 just a tool to help you decode hashes, md5, sha1, sha224, sha256, sha384 and sha512, using hashlib with python3
     <p align="center"> <img src="dcode.gif" /> </p>
 ```bash
